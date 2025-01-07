@@ -1,6 +1,6 @@
 {
   "name": "@akiojin/decode-base64-github-action",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This action sets a Base64 string to an environment variable or writes it to a file.",
   "main": "dist/index.js",
   "scripts": {
