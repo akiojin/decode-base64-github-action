@@ -17,7 +17,7 @@ jobs:
         OS: [ ubuntu-latest, macos-latest, windows-latest ]
 
     steps:
-      - name: 🌱 Checkout to the branch
+      - name: 🔄 Checkout to the branch
         uses: actions/checkout@v4
 
       - uses: ./
